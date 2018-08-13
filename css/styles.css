@@ -9,9 +9,9 @@ h1 {
 h2 {
   text-align: center;
   color: var(--ic-brand-font-color-dark);
-  color: black;
-  font-size: 20px;
-  font-family: "Helvetica Neue";
+  color: rgb(225,400,25);
+  font-size: 25px;
+  font-family: "sans-serif";
 }
 .body {
    background-color: #8a4611;
