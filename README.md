@@ -1,5 +1,3 @@
-# wanja
-
 # projectname: 
 Triangle Tracker
 # Author name:
