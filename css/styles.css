@@ -13,8 +13,8 @@ h2 {
   font-size: 25px;
   font-family: "sans-serif";
 }
-.body {
-   background-color: #8a4611;
+body {
+   background-color: teal;
    text-align: center;
 }
 div {
